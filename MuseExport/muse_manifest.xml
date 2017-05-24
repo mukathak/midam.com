@@ -1,0 +1,109 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="midam.com" resolutions="1x" timestamp="1495597076807">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="76158627" ref="phone>index"/>
+      <file name="f3.css" crc="3875502288" ref="phone>f3"/>
+      <file name="book2.css" crc="3917669431" ref="phone>book2"/>
+      <file name="info-table.css" crc="419917182" ref="phone>info-table"/>
+      <file name="pintu-masuk.css" crc="4188251537" ref="phone>pintu-masuk"/>
+      <file name="f1.css" crc="529708277" ref="phone>f1"/>
+      <file name="sejarah.css" crc="3866152363" ref="phone>sejarah"/>
+      <file name="f2.css" crc="4155296457" ref="phone>f2"/>
+      <file name="quiet.css" crc="296686561" ref="phone>quiet"/>
+      <file name="book1.css" crc="489362149" ref="phone>book1"/>
+      <file name="book3.css" crc="196942725" ref="phone>book3"/>
+      <file name="home.css" crc="4251278457" ref="phone>home"/>
+    </folder>
+    <file name="index.html" crc="200468434" seo="true" mt="1495123984774" redirect="true"/>
+    <file name="home.html" crc="74739348" seo="true" mt="1495179162552" redirect="true"/>
+    <file name="f1.html" crc="4132053436" seo="true" mt="1495179470488" redirect="true"/>
+    <file name="f2.html" crc="39644171" seo="true" mt="1495179503897" redirect="true"/>
+    <file name="f3.html" crc="86459749" seo="true" mt="1495178738952" redirect="true"/>
+    <file name="pintu-masuk.html" crc="212217917" seo="true" mt="1495175806973" redirect="true"/>
+    <file name="info-table.html" crc="3893526209" seo="true" mt="1495175799528" redirect="true"/>
+    <file name="sejarah.html" crc="3928448723" seo="true" mt="1495176667205" redirect="true"/>
+    <file name="book1.html" crc="389610302" seo="true" mt="1495176738957" redirect="true"/>
+    <file name="book2.html" crc="3884007642" seo="true" mt="1495177342262" redirect="true"/>
+    <file name="quiet.html" crc="240738030" seo="true" mt="1495178638004" redirect="true"/>
+    <file name="book3.html" crc="3847680161" seo="true" mt="1495178707203" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3934960857" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index:phone>home:phone>f1:phone>f2:phone>f3:phone>pintu-masuk:phone>info-table:phone>sejarah:phone>book1:phone>book2:phone>quiet:phone>book3"/>
+    <file name="museutils.js" crc="163421577" ref="index:phone>index:phone>home:phone>f1:phone>f2:phone>f3:phone>pintu-masuk:phone>info-table:phone>sejarah:phone>book1:phone>book2:phone>quiet:phone>book3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index:phone>home:phone>f1:phone>f2:phone>f3:phone>pintu-masuk:phone>info-table:phone>sejarah:phone>book1:phone>book2:phone>quiet:phone>book3"/>
+    <file name="museconfig.js" crc="168988563" ref="index:phone>index:phone>home:phone>f1:phone>f2:phone>f3:phone>pintu-masuk:phone>info-table:phone>sejarah:phone>book1:phone>book2:phone>quiet:phone>book3"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:phone>index:phone>home:phone>f1:phone>f2:phone>f3:phone>pintu-masuk:phone>info-table:phone>sejarah:phone>book1:phone>book2:phone>quiet:phone>book3"/>
+    <file name="require.js" crc="244322403" ref="index:phone>index:phone>home:phone>f1:phone>f2:phone>f3:phone>pintu-masuk:phone>info-table:phone>sejarah:phone>book1:phone>book2:phone>quiet:phone>book3"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:phone>index:phone>home:phone>f1:phone>f2:phone>f3:phone>pintu-masuk:phone>info-table:phone>sejarah:phone>book1:phone>book2"/>
+    <file name="new1.png" crc="3894198722" seo="true" ref="index:phone>index"/>
+    <file name="u208-4.png" crc="4124205056" ref="phone>index"/>
+    <file name="u214.png" crc="3926691402" ref="phone>index"/>
+    <file name="u214-r.png" crc="3926691402" ref="phone>index"/>
+    <file name="u122-4.png" crc="475031780" ref="phone>home"/>
+    <file name="u110.png" crc="247822681" ref="phone>home"/>
+    <file name="u110-r.png" crc="247822681" ref="phone>home"/>
+    <file name="u117.png" crc="3838672392" ref="phone>home"/>
+    <file name="u117-r.png" crc="3838672392" ref="phone>home"/>
+    <file name="u114.png" crc="362913487" ref="phone>home"/>
+    <file name="u114-r.png" crc="362913487" ref="phone>home"/>
+    <file name="u268.png" crc="4197635159" ref="phone>home"/>
+    <file name="u268-r.png" crc="4100490155" ref="phone>home"/>
+    <file name="u380-4.png" crc="363769993" ref="phone>f1"/>
+    <file name="u382-4.png" crc="4085088249" ref="phone>f1"/>
+    <file name="back.png" crc="533705994" seo="true" ref="phone>f1:phone>f2:phone>f3:phone>pintu-masuk:phone>info-table:phone>sejarah:phone>book1:phone>book2"/>
+    <file name="base-crop-u274.png" crc="369959888" ref="phone>f1"/>
+    <file name="saloon (1).png" crc="398303020" seo="true" ref="phone>f1"/>
+    <file name="computer.png" crc="86919723" seo="true" ref="phone>f1"/>
+    <file name="people.png" crc="4150385235" seo="true" ref="phone>f1:phone>f2:phone>f3"/>
+    <file name="man.png" crc="3919231668" seo="true" ref="phone>f1"/>
+    <file name="bookcase.png" crc="3851445233" seo="true" ref="phone>f1:phone>f2:phone>f3"/>
+    <file name="scanning.png" crc="480885308" seo="true" ref="phone>f1"/>
+    <file name="education.png" crc="4177753269" seo="true" ref="phone>f1"/>
+    <file name="table.png" crc="97382684" seo="true" ref="phone>f1"/>
+    <file name="tree (1).png" crc="317569477" seo="true" ref="phone>f1:phone>f2:phone>f3"/>
+    <file name="maps-and-flags.png" crc="3799647779" seo="true" ref="phone>f1:phone>f2:phone>f3"/>
+    <file name="u288.png" crc="4197635159" ref="phone>f1"/>
+    <file name="u288-r.png" crc="4100490155" ref="phone>f1"/>
+    <file name="tool.png" crc="3783867077" seo="true" ref="phone>f1:phone>f2:phone>f3"/>
+    <file name="u433-4-a.png" crc="363769993" ref="phone>f2"/>
+    <file name="u434-4.png" crc="3806382991" ref="phone>f2"/>
+    <file name="base-crop-u424.png" crc="369959888" ref="phone>f2"/>
+    <file name="door.png" crc="3937228865" seo="true" ref="phone>f2:phone>f3"/>
+    <file name="wc.png" crc="56477907" seo="true" ref="phone>f2"/>
+    <file name="mosque (2).png" crc="4242267953" seo="true" ref="phone>f2"/>
+    <file name="u427.png" crc="4197635159" ref="phone>f2"/>
+    <file name="u427-r.png" crc="4100490155" ref="phone>f2"/>
+    <file name="u450-4.png" crc="363769993" ref="phone>f3"/>
+    <file name="u451-4-a.png" crc="3806382991" ref="phone>f3"/>
+    <file name="base-crop-u441.png" crc="369959888" ref="phone>f3"/>
+    <file name="quiet.png" crc="4218560882" seo="true" ref="phone>f3"/>
+    <file name="u444.png" crc="4197635159" ref="phone>f3"/>
+    <file name="u444-r.png" crc="4100490155" ref="phone>f3"/>
+    <file name="oga1g30-1-.jpg" crc="4278773328" seo="true" ref="phone>pintu-masuk:phone>info-table:phone>sejarah:phone>book1:phone>book2:phone>quiet:phone>book3"/>
+    <file name="whatsapp image 2017-05-19 at 125001 pm (4).jpg" crc="3923653157" seo="true" ref="phone>pintu-masuk"/>
+    <file name="u1003.png" crc="4197635159" ref="phone>pintu-masuk"/>
+    <file name="u1003-r.png" crc="4100490155" ref="phone>pintu-masuk"/>
+    <file name="whatsapp image 2017-05-19 at 124323 pm (6).jpg" crc="4200172918" seo="true" ref="phone>info-table"/>
+    <file name="u1023.png" crc="4197635159" ref="phone>info-table"/>
+    <file name="u1023-r.png" crc="4100490155" ref="phone>info-table"/>
+    <file name="whatsapp image 2017-05-19 at 124323 pm (3).jpg" crc="108582910" seo="true" ref="phone>sejarah"/>
+    <file name="u1051.png" crc="4197635159" ref="phone>sejarah"/>
+    <file name="u1051-r.png" crc="4100490155" ref="phone>sejarah"/>
+    <file name="whatsapp image 2017-05-19 at 124323 pm (5).jpg" crc="446206529" seo="true" ref="phone>book1"/>
+    <file name="u1076.png" crc="4197635159" ref="phone>book1"/>
+    <file name="u1076-r.png" crc="4100490155" ref="phone>book1"/>
+    <file name="whatsapp image 2017-05-19 at 124139 pm (1).jpg" crc="4275185234" seo="true" ref="phone>book2"/>
+    <file name="u1097.png" crc="4197635159" ref="phone>book2"/>
+    <file name="u1097-r.png" crc="4100490155" ref="phone>book2"/>
+    <file name="u1485-4.png" crc="4124205056" ref="index"/>
+    <file name="u1487.png" crc="3926691402" ref="index"/>
+    <file name="u1487-r.png" crc="3926691402" ref="index"/>
+  </folder>
+  <file name="index.html" crc="221648870" seo="true" mt="1495597016875" redirect="true"/>
+</manifest>
